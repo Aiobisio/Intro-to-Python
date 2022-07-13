@@ -1,1 +1,1 @@
-GUI参见官方文档[Tkinter](https://docs.python.org/zh-cn/3.10/library/tk.html)
+GUI参见[Tkinter官方文档](https://docs.python.org/zh-cn/3.10/library/tk.html)
